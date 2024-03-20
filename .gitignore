@@ -1,0 +1,16 @@
+#VISUAL STUDIO
+.vs/
+**/obj/
+**/bin/
+*.suo
+*.user
+*.sln.cache
+
+#MAUI FILES BASURA
+*.vsidx
+*.assets.cache
+*.AssemblyReferences.cache
+*.nuget.dgspec.json
+project.assets.json
+project.nuget.cache
+*.GeneratedMSBuilEditorConfig.editorconfig
